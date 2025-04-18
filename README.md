@@ -70,3 +70,6 @@ Sample Prediction: Diabetic
 * Plot ROC curve or confusion matrix for better insights
 * Deploy using Streamlit or Flask
 
+## Author
+Private-Fox7
+
