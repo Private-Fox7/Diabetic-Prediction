@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, mean_absolute_error
 
 # Load the data
-data = r'C:\\Users\\Private Fox\\Downloads\\diabetes.csv'
+data = r'https://github.com/Private-Fox7/Diabetic-Prediction/blob/main/diabetes.csv'
 c_df = pd.read_csv(data)
 print(c_df.describe())
 # Split features (X) and target (y)
